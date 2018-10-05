@@ -12,7 +12,7 @@
 
 2. را فعال کنید Google Chrome developer tools
 
-3. در اینسپکت به تب کنسول رفته
+3. (inspect - console)در اینسپکت به تب کنسول رفته
 
 4. را کپی کرده `GameBotHack.js` محتوای فایل 
 
