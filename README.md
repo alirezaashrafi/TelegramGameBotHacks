@@ -1,21 +1,21 @@
-# TelegramLumberjackGameHack
-A hack to register your desired score on the telegram game bots.
+# هک بازی های تلگرام GAMEBOT
+هکی برای ثبت رکورد در بازی های تلگرامی
 
-###What you need:
+### موارد مورد نیاز:
 
-- Chrome Browser installed
-- Telegram Desktop Client on Windows
+- مرورگر گوگل کروم در کامپیوتر
+- تلگرام برای کپی کردن لینک بازی مخصوص به شما
 
 ###What to do
 
-1. Open a `Telegram Game Bot` game via the windows telegram desktop client
+1. لینک کپی شده از صفحه بازی را در کروم باز کنید
 
-2. Show the Google Chrome developer tools
+2. Google Chrome developer tools
 
-3. Go to the console tab
+3. به تب کنسول رفته
 
-4. Paste the code of the `GameBotHack.js`
+4. محتوای فایل پیوست شده را کپی کرده `GameBotHack.js`
 
-5. Change the `DESIRED_SCORE` variable
+5. به اندازه نیاز تغییر دهید `DESIRED_SCORE` مقدار
 
-6. Press Enter and enjoy your new highscore!
+6. دکمه اینتر را روی کیبورد فشرده و از امتیاز خود لذت ببرید
