@@ -1,4 +1,5 @@
 var DESIRED_SCORE = 300;
+// این مقدار امتیازی است که قرار است ثبت شود میتوانید کمو زیاد کنید
 
 var R = (location.hash || "").substr(1),
     R = R.replace(/[\?&].*/g, "");
